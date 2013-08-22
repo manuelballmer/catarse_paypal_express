@@ -1,0 +1,14 @@
+de:
+  projects:
+    backers:
+      review:
+        paypal: 'PayPal'
+        international:
+          section_title: 'Sie werden auf PayPal weitergeleitet um die Zahlung zu vervollständigen.'
+          user_document_label: 'CPF / CNPJ (nur für Brasilianer?)'
+          button: 'Weiter zu PayPal.com (USA)'
+      checkout:
+        paypal_cancel: "Ihre Paypal Zahlung wurde abgebrochen. Bitte versuchen Sie es nocheinmal."
+        paypal_description: "Back project %{project_name} with %{value} (CHF)"
+        paypal_error: "Ooops. There was an error while sending your payment to PayPal. Bitte versuchen Sie es nocheinmal."
+        success: "Ihr Back wurde erfolgreich getätigt. Vielen Dank!"
